@@ -1,4 +1,4 @@
-### Library-Managment-System-SQL-Project
+# Library Management System SQL Project
 
 # Project Overiew
 **Database:** LMS
